@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     color: "white",
     position: "absolute",
-    bottom: 30, // Jarak dari bawah layar
+    bottom: 30, 
     left: 0,
     right: 0,
     textAlign: "center",
