@@ -4,13 +4,13 @@ import { View, Text, Image, StyleSheet } from "react-native";
 const Latihan3 = () => {
   return (
     <View style={styles.container}>
-      {/* Logo */}
+      
       <Image
         source={{ uri: "https://upload.wikimedia.org/wikipedia/commons/6/6c/LOGO_IBIK.png" }} 
         style={styles.logo}
       />
 
-      {/* Teks Loading */}
+      
       <Text style={styles.loadingText}>Loading...</Text>
     </View>
   );
